@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Heading Styles  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Link styling*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Text styling*/
 p {
     font-size: 16px;
 }
-
+/*Main Div Styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Image Styling*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*Body  styling*/
 .content {
     width: 75%;
     display: inline-block;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Footer Stylings */
 .footer {
     padding: 30px;
     clear: both;
